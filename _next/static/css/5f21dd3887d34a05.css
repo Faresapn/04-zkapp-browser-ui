@@ -258,11 +258,11 @@ right: 10px;
 
 .Home_loadingBtn__vAScy {
 	display: block;
-	background-image: url(/04-zkapp-browser-ui/_next/static/media/loadingBtn.7e7af154.gif);
+	background-image: url(/04-zkapp-browser-ui/_next/static/media/cartoon-snail-loading-loading-gif-animation_2734139.eb966ba8.gif);
 	background-repeat: no-repeat;
 	background-size: cover;
-	width: 160px;
-	height: 73px;
+	width: 140px;
+	height: 90px;
 	position: absolute;
   right: 10px;
 }
@@ -312,7 +312,7 @@ right: 10px;
 	height: 35px;
 	position: absolute;
 	left: 295px;
-	top: 325px;
+	top: 305px;
 }
 
 .Home_sendDone__abENy {
@@ -323,8 +323,8 @@ right: 10px;
 	width: 250px;
 	height: 120px;
 	position: absolute;
-	left: 330px;
-	top: 170px;
+	left: 350px;
+	top: 230px;
 }
 
 .Home_caution__VEpHP {
@@ -472,11 +472,11 @@ right: 10px;
 	background-image: url(/04-zkapp-browser-ui/_next/static/media/sendBtn1.74ae0aca.png);
 	background-repeat: no-repeat;
 	background-size: cover;
-	width: 160px;
-	height: 73px;
+	width: 200px;
+	height: 75px;
 	position: absolute;
-	left: 250px;
-	top: 400px;
+	right: 10px;
+	top: 0px;
 }
 
 .Home_sendBtn__F6hw6:hover {
@@ -484,11 +484,11 @@ right: 10px;
 	background-image: url(/04-zkapp-browser-ui/_next/static/media/sendBtn2.73dc2c93.png);
 	background-repeat: no-repeat;
 	background-size: cover;
-	width: 160px;
-	height: 73px;
+	width: 200px;
+	height: 75px;
 	position: absolute;
-	left: 250px;
-	top: 400px;
+	right: 10px;
+	top: 0px;
 }
 
 .Home_sendBtn__F6hw6:active {
@@ -496,11 +496,11 @@ right: 10px;
 	background-image: url(/04-zkapp-browser-ui/_next/static/media/sendBtn3.aa0c747f.png);
 	background-repeat: no-repeat;
 	background-size: cover;
-	width: 160px;
-	height: 73px;
+	width: 200px;
+	height: 75px;
 	position: absolute;
-	left: 250px;
-	top: 400px;
+	right: 10px;
+	top: 0px;
 }
 
 .Home_sendBtnDisable__6VyTK {
@@ -508,11 +508,11 @@ right: 10px;
 	background-image: url(/04-zkapp-browser-ui/_next/static/media/sendBtn3.aa0c747f.png);
 	background-repeat: no-repeat;
 	background-size: cover;
-	width: 160px;
-	height: 73px;
+	width: 200px;
+	height: 75px;
 	position: absolute;
-	left: 250px;
-	top: 400px;
+	right: 10px;
+	top: 0px;
 }
 
 .Home_getBtn__h_3sY {
@@ -520,11 +520,11 @@ right: 10px;
 	background-image: url(/04-zkapp-browser-ui/_next/static/media/getBtn1.79688ddc.png);
 	background-repeat: no-repeat;
 	background-size: cover;
-	width: 160px;
-	height: 73px;
+	width: 200px;
+	height: 75px;
 	position: absolute;
-	left: 510px;
-	top: 400px;
+	left: 10px;
+	top: 0px;
 }
 
 .Home_getBtn__h_3sY:hover {
@@ -532,11 +532,11 @@ right: 10px;
 	background-image: url(/04-zkapp-browser-ui/_next/static/media/getBtn2.33df8758.png);
 	background-repeat: no-repeat;
 	background-size: cover;
-	width: 160px;
-	height: 73px;
+	width: 200px;
+	height: 75px;
 	position: absolute;
-	left: 510px;
-	top: 400px;
+	left: 10px;
+	top: 0px;
 }
 
 .Home_getBtn__h_3sY:active {
@@ -544,11 +544,11 @@ right: 10px;
 	background-image: url(/04-zkapp-browser-ui/_next/static/media/getBtn3.9c59c9a7.png);
 	background-repeat: no-repeat;
 	background-size: cover;
-	width: 160px;
-	height: 73px;
+	width: 200px;
+	height: 75px;
 	position: absolute;
-	left: 510px;
-	top: 400px;
+	left: 10px;
+	top: 0px;
 }
 
 .Home_getBtnDisable__ASdt7 {
@@ -556,11 +556,11 @@ right: 10px;
 	background-image: url(/04-zkapp-browser-ui/_next/static/media/getBtn3.9c59c9a7.png);
 	background-repeat: no-repeat;
 	background-size: cover;
-	width: 160px;
-	height: 73px;
+	width: 200px;
+	height: 75px;
 	position: absolute;
-	left: 510px;
-	top: 400px;
+	left: 10px;
+	top: 0px;
 }
 
 .Home_txtState__XfTmO {
@@ -696,7 +696,7 @@ right: 10px;
 	height: 330px;
 	position: absolute;
 	left: 250px;
-	top: 100px;
+	top: 70px;
 }
 
 
@@ -733,7 +733,7 @@ right: 10px;
 	height: 52px;
 	position: absolute;
 	left: 600px;
-	top: 120px;
+	top: 100px;
 }
 
 .Home_closeSend__b_1LB:hover {
